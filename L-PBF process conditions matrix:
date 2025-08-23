@@ -1,0 +1,37 @@
+P-series (P1–P6): fixed scan speed 𝑣 = 300 mm s−1, layer thickness 𝑡 = 30 μm, hatch
+spacing ℎ = 100 μm, and preheating to 150 ◦C; laser power 𝑃 is varied, yielding the listed volumetric energy densities 𝑉𝑒𝑑. A–C
+series (A1–A4, B1–B4, C1–C4): fixed 𝑃 = 180 W, 𝑡 = 30 μm, ℎ = 120 μm, and no preheating; scan speed 𝑣 is swept within each
+series to span a low–high 𝑉 𝑒𝑑 range:
+
+
+v = 300 mm/s, t = 30 µm, h = 100 µm, preheating to 150°C.
+Sample Designation	P1
+P = 200 W	P2
+P = 190 W	P3
+P = 180 W	P4
+P = 170 W	P5
+P = 160 W	P6
+P = 150 W
+Ed, J/mm3	222.22	211.11	200.00	188.89	177.78	166.67
+				P = 180 W, t = 30 µm, h = 120µm, no preheating
+Designation
+	A1
+v = 250 mm/s	A2
+v = 300 mm/s	A3
+v = 375 mm/s	A4
+v = 500 mm/s	–	–
+Ed, J/mm3	200.00	166.67	133.33	100.00	–	–
+Designation
+	B1
+v = 391mm/s	B2
+v = 470 mm/s	B3
+v = 587 mm/s	B4
+v = 783 mm/s	–	–
+Ed, J/mm3	127.66	106.38	85.11	63.83	–	–
+Designation
+	C1
+v = 525 mm/s	C2
+v= 630 mm/s	C3
+v = 787 mm/s	C4
+v = 1050 mm/s	–	–
+Ed, J/mm3	95.24	79.37	63.49	47.62	–	–
