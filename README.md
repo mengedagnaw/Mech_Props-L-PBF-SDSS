@@ -2,7 +2,7 @@
 
 This repository hosts the experimental data, images, and analysis notebooks used to study how **laser powder bed fusion (LPBF)** and **subsequent post-processing/heat-treatment steps** affect the mechanical response of **super duplex stainless steel 2507**.
 
-The files here belong to a larger research workflow carried out at the **Silesian University of Technology (Faculty of Mechanical Engineering, Poland)** and are organized so they can be reused in Google Colab or local Jupyter environments.
+The files here belong to a larger research workflow carried out and are organized so they can be reused in Google Colab or local Jupyter environments.
 
 ---
 
