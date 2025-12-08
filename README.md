@@ -10,7 +10,7 @@ The files here belong to a larger research workflow carried out and are organize
 
 - LPBF-built SDSS 2507 (UNS S32750), standard chemistry.
 - As-built and several stress-relieved / solution-annealed conditions:
-  - `AS` (as-built)
+  - `AS`
   - `SR400_1h`
   - `SR450_1h`
   - `SR500_1h`
