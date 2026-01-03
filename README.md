@@ -40,7 +40,7 @@ The repo currently contains (representative list from the root):
 
 ## 3. How to Use (Google Colab workflow)
 
-1. Open the notebook you want, e.g. **`Hardndess_test_visualization_3_ipynb.ipynb`**.
+1. Open the notebook you want, e.g. **`Hardness_test_visualization_3_ipynb.ipynb`**.
 2. Run it in **Google Colab**.
 3. When prompted, **upload your CSV/XLSX** that contains the mechanical data for the selected condition (`AS`, `SR400_1h`, …).
 4. The notebook will:
