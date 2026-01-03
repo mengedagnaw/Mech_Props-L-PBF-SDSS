@@ -25,9 +25,9 @@ The files here belong to a larger research workflow carried out and are organize
 
 The repo currently contains (representative list from the root):
 
-- `Hardndess_test_visualization_3_ipynb.ipynb` – Colab/Jupyter notebook for plotting hardness data.
+- `Hardness_test_visualization_3_ipynb.ipynb` – Colab/Jupyter notebook for plotting hardness data.
 - `Tensile_test_visualization_3_Ni.ipynb` – notebook for reading tensile test outputs and generating stress–strain figures.
-- `hardndess_ script` / `Notebook script_tensile test` – helper scripts/notebooks for figure generation.
+- `hardness_ script` / `Notebook script_tensile test` – helper scripts/notebooks for figure generation.
 - `AS.ang.zip`, `SR300.ang.zip`, `SR550.ang.zip`, `SA1100.zip` – EBSD/ANG inputs for crystallographic/microstructural analysis (zipped).
 - `XRD datasets/` – XRD-related data for phase/microstructure verification.
 - `L-PBF process conditions matrix` – processing parameters used for the printed batches.
